@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3883
     wikipedia: http://en.wikipedia.org/wiki/Charles_De_Coster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40004#The-Legend-of-Ulenspiegel-Vol.-II--of-2-and-Glorious-in-the-Land-of-Flanders-and-Elsewhere
 gutenberg_issued: '2012-06-15'
 gutenberg_type: Text
 identifiers:
