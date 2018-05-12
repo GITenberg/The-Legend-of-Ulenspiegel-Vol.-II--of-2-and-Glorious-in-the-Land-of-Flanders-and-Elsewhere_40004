@@ -1,0 +1,43 @@
+_repo: The-Legend-of-Ulenspiegel-Vol.-II--of-2-and-Glorious-in-the-Land-of-Flanders-and-Elsewhere_40004
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Atkinson, F. M.
+    gutenberg_agent_id: '39346'
+    url: http://www.gutenberg.org/2009/agents/39346
+  - agent_name: Lepper, John Heron
+    alias: Lepper, J. Heron (John Heron)
+    birthdate: 1878
+    gutenberg_agent_id: '40360'
+    url: http://www.gutenberg.org/2009/agents/40360
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coster, Charles de
+    aliases:
+    - Coster, Charles Théodore Henri de
+    - Coster, Charles Theodore Henri de
+    - DeCoster, Charles Théodore Henri
+    birthdate: 1827
+    deathdate: 1879
+    gutenberg_agent_id: '3883'
+    url: http://www.gutenberg.org/2009/agents/3883
+    wikipedia: http://en.wikipedia.org/wiki/Charles_De_Coster
+description: ''
+gutenberg_issued: '2012-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eulenspiegel (Satire) -- Legends'
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+title: "The Legend of Ulenspiegel, Volume 2 (of 2)\r\nAnd Lamme Goedzak, and their\
+  \ Adventures Heroical, Joyous and Glorious in the Land of Flanders and Elsewhere"
+url: http://www.gutenberg.org/ebooks/40004
